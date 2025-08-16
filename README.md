@@ -76,11 +76,32 @@
 ---
 
 <!-- Visitor Counter -->
+### 👀 Visitor Count  
 <p align="center">
-  <img src="https://profile-counter.glitch.me/waygeance/count.svg" />
+  <img src="https://count.getloli.com/get/@waygeance?theme=moebooru-h" />
 </p>
 
-<!-- Footer Snake Again -->
+---
+
+<!-- Contact Me -->
+### 🤝 Let’s Connect  
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/waygeance/waygeance/output/github-contribution-grid-snake-dark.svg" alt="snake animation dark" />
+  <a href="https://www.linkedin.com/in/bhavyasinghiiitk/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/waygeance" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/waygeance/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:bhavyasinghiiitk@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+---
+
+<!-- Thank You -->
+<h3 align="center">✨ Thank you for visiting my profile 🙏 Have a great day! ✨</h3>

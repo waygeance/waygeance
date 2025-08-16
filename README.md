@@ -3,16 +3,18 @@
   <img src="https://raw.githubusercontent.com/waygeance/waygeance/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-<!-- Glowing Neon Title -->
+<!-- 🚀 Cyberpunk Neon Header -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Waygeance&width=800&height=150" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=40&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=⚡+WAYGEANCE;🚀+Bhavya+Singh;💻+MERN+Developer;🎯+Competitive+Programmer;📡+ECE+Engineer" alt="Typing Animation" />
 </p>
-
-<!-- Animated Typing Intro -->
+<!-- Minimal Neon Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF2EC6&center=true&vCenter=true&width=600&lines=Hey!+I'm+Bhavya+Singh;Full+Stack+MERN+Developer;ECE+Engineer+@+IIIT;Competitive+Programmer;Open+Source+Enthusiast" />
+  <img src="./banner.svg" alt="WAYGEANCE — Bhavya Singh" />
 </p>
-
+<!-- Matrix Glow Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/laser.gif" />
+</p>
 <!-- Waving Hand Greeting -->
 <h2 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 

@@ -9,7 +9,7 @@
 </p>
 <!-- Minimal Neon Banner -->
 <p align="center">
-  <img src="./banner.svg" alt="WAYGEANCE — Bhavya Singh" />
+  <img src="./banner.png" alt="WAYGEANCE — Bhavya Singh" />
 </p>
 <!-- Matrix Glow Divider -->
 <p align="center">

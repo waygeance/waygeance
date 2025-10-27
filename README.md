@@ -67,7 +67,7 @@
 <!-- Achievements -->
 ### 🏆 Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=waygeance&theme=radical&margin-w=10&margin-h=10&no-frame=true&title=Commit,Stars,Followers,Repositories,PullRequest,Issues" />
+  [![An image of @waygeance's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/waygeance)](https://holopin.io/@waygeance)
 </p>
 
 ---

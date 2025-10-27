@@ -66,9 +66,13 @@
 
 <!-- Achievements -->
 ### 🏆 Trophies  
+
 <p align="center">
-  [![An image of @waygeance's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/waygeance)](https://holopin.io/@waygeance)
+  <a href="https://holopin.io/@waygeance">
+    <img src="https://holopin.me/waygeance" alt="@waygeance's Holopin badges" />
+  </a>
 </p>
+
 
 ---
 

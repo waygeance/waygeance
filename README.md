@@ -35,7 +35,6 @@
 - 🎓 Pre-final Year @ **IIIT Kota (ECE)**  
 - 🔭 Building: **Gitavani (AI Gita Model)** | **Digital-Detox App** | **NetraX (Accessibility OCR)**  
 - 💡 Motto: *“Way of Vengeance → Turning setbacks into comebacks”*  
-- ⚡ Fun fact: Automating my **GitHub streaks 🔥**  
 
 ---
 

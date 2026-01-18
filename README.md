@@ -1,40 +1,27 @@
-<!-- 🚀 Cyberpunk Neon Header -->
+<h1 align="center">BHAVYA SINGH</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=40&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=⚡+WAYGEANCE;🚀+Bhavya+Singh;💻+MERN+Developer;🎯+Competitive+Programmer;📡+ECE+Engineer" alt="Typing Animation" />
+  <i>MERN Developer • Open Source Contributor • Competitive Programmer</i>
 </p>
-
-
 
 <!-- Snake Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/waygeance/waygeance/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-<!-- Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/laser.gif" />
-</p>
 
 <!-- Waving Hand Greeting -->
-<h2 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<h2 align="center">
+  Hi there!
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h2>
 
----
-
-<!-- Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=waygeance&label=Profile%20views&color=ff2ec6&style=flat" alt="views" /> 
-  <img src="https://img.shields.io/github/followers/waygeance?label=Followers&style=social&color=ff2ec6" alt="followers" />
-  <img src="https://img.shields.io/github/stars/waygeance?label=Stars&style=social&color=ff2ec6" alt="stars" />
-</p>
-
----
 
 <!-- About Me -->
-### 👨‍💻 About Me  
-- 🌱 Exploring **MERN Stack, Competitive Programming, Digital Wellness Apps**  
-- 🎓 Pre-final Year @ **IIIT Kota (ECE)**  
-- 🔭 Building: **Gitavani (AI Gita Model)** | **Digital-Detox App** | **NetraX (Accessibility OCR)**  
-- 💡 Motto: *“Way of Vengeance → Turning setbacks into comebacks”*  
+### 👨‍💻 About Me
+- 🌱 Exploring **MERN Stack, Competitive Programming, Open Source**
+- 🎓 Pre-final Year @ **IIIT Kota (ECE)**
+- 🔭 Building: **AutoATS** | **PaperSphere** | **Myself**
 
 ---
 
@@ -46,17 +33,31 @@
 
 ---
 
-<!-- GitHub Stats -->
-### 📊 Stats & Activity  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waygeance&show_icons=true&theme=radical&title_color=ff2ec6&icon_color=ff2ec6&text_color=fff&bg_color=0D1117" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=waygeance&theme=radical&ring=ff2ec6&fire=ff2ec6&currStreakLabel=ff2ec6" height="160"/>
-</p>
+## 🚀 My Open Source Contributions
+(_This file is regularly updated as I contribute to more projects!_)
+
+| Organization Name | Repository | Type | Link |
+|------------------|------------|------|------|
+| **JSON Schema** | Website | Accepted Issue | [#2121](https://github.com/json-schema-org/website/issues/2121) |
+| **JSON Schema** | Conference | Issue | [#92](https://github.com/json-schema-org/conference/issues/92) |
+| **JSON Schema** | Landscape | Issue | [#124](https://github.com/json-schema-org/landscape/issues/124) |
+| **JSON Schema** | Landscape | Issue | [#123](https://github.com/json-schema-org/landscape/issues/123) |
+| **juspay** | hyperswitch | Issue | [#10953](https://github.com/juspay/hyperswitch/issues/10953) |
+| **omegaup** | omegaup | Issue | [#8779](https://github.com/omegaup/omegaup/issues/8779) |
+| **omegaup** | omegaup | Issue | [#8778](https://github.com/omegaup/omegaup/issues/8778) |
+| **JSON Schema** | Website | Accepted Issue | [#2086](https://github.com/json-schema-org/website/issues/2086) |
+| **JSON Schema** | Website | Issue (Closed) | [#2085](https://github.com/json-schema-org/website/issues/2085) |
+| **omegaup** | prod | Issue | [#37](https://github.com/omegaup/prod/issues/37) |
+| **JSON Schema** | Website | PR (Open) | [#2126](https://github.com/json-schema-org/website/pull/2126) |
+| **omegaup** | omegaup | PR (Merged) | [#8781](https://github.com/omegaup/omegaup/pull/8781) |
+| **omegaup** | omegaup | PR (Merged) | [#8727](https://github.com/omegaup/omegaup/pull/8727) |
+| **JSON Schema** | Website | Enhancement Issue | [#2059](https://github.com/json-schema-org/website/issues/2059) |
+| **LeetCode** | LeetCode-Feedback | Issue (Closed) | [#33498](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/33498) |
 
 ---
 
 <!-- Random Quote -->
-### ✨ Random Quote  
+### ✨ Random Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 </p>
@@ -64,27 +65,17 @@
 ---
 
 <!-- Achievements -->
-### 🏆 Trophies  
-
+### 🏆 Trophies
 <p align="center">
   <a href="https://holopin.io/@waygeance">
     <img src="https://holopin.me/waygeance" alt="@waygeance's Holopin badges" />
   </a>
 </p>
 
-
----
-
-<!-- Visitor Counter -->
-### 👀 Visitor Count  
-<p align="center">
-  <img src="https://count.getloli.com/get/@waygeance?theme=moebooru-h" />
-</p>
-
 ---
 
 <!-- Contact Me -->
-### 🤝 Let’s Connect  
+### 🤝 Let’s Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/bhavyasinghiiitk/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -102,5 +93,15 @@
 
 ---
 
+<!-- Visitor Counter -->
+### 👀 Visitor Count
+<p align="center">
+  <img src="https://count.getloli.com/get/@waygeance?theme=moebooru-h" />
+</p>
+
+---
+
 <!-- Thank You -->
-<h3 align="center">✨ Thank you for visiting my profile 🙏 Have a great day! ✨</h3>
+<h3 align="center">
+  ✨ Thank you for visiting my profile 🙏 Have a great day! ✨
+</h3>

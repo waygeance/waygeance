@@ -33,26 +33,74 @@
 
 ---
 
-## 🚀 My Open Source Contributions
-(_This file is regularly updated as I contribute to more projects!_)
+## 🚀 JSON Schema
+| Repository | Type | Status | Contribution |
+|:---|:---|:---|:---|
+| `website` | **PR** | Open | [#2389](https://github.com/json-schema-org/website/pull/2389) fix: sync-contributors file path mismatch |
+| `website` | **PR** | Open | [#2312](https://github.com/json-schema-org/website/pull/2312) fix: render bio links for Redocly/OpenAPI |
+| `website` | **PR** | Open | [#2311](https://github.com/json-schema-org/website/pull/2311) fix(tools): eliminate groupBy flicker |
+| `website` | **PR** | Open | [#2291](https://github.com/json-schema-org/website/pull/2291) fix: blog pagination reset persistence |
+| `website` | **PR** | Merged | [#2276](https://github.com/json-schema-org/website/pull/2276) Added SJF4J to Ecosystem |
+| `website` | **PR** | Open | [#2176](https://github.com/json-schema-org/website/pull/2176) fix: prevent stored XSS in card component |
+| `website` | **PR** | Merged | [#2126](https://github.com/json-schema-org/website/pull/2126) fix(blog): fix blog pagination scroll |
+| `website` | **PR** | Open | [#2125](https://github.com/json-schema-org/website/pull/2125) Fix filter dropdown height visibility |
+| `community` | **PR** | Open | [#1013](https://github.com/json-schema-org/community/pull/1013) Update ambassadors.json |
+| `website` | **Issue** | Open | [#2380](https://github.com/json-schema-org/website/issues/2380) Security: Protect against Axios Supply Chain Compromise |
+| `website` | **Issue** | Open | [#2376](https://github.com/json-schema-org/website/issues/2376) Bug: Sync-contributors.yml silent failure |
+| `website` | **Issue** | Open | [#2250](https://github.com/json-schema-org/website/issues/2250) Bug: time.now logo transparency |
+| `website` | **Issue** | Open | [#2214](https://github.com/json-schema-org/website/issues/2214) Bug: Heading anchor highlight (:target) issue |
+| `community` | **Issue** | Closed | [#973](https://github.com/json-schema-org/community/issues/973) GSOC 2026: Interactive Documentation Assistant |
+| `landscape` | **Issue** | Open | [#124](https://github.com/json-schema-org/landscape/issues/124) Bug: Search bar in header (Guide pages) |
+| `landscape` | **Issue** | Open | [#123](https://github.com/json-schema-org/landscape/issues/123) Bug: Outdated Logos Displayed |
+| `website` | **Issue** | Accepted | [#2151](https://github.com/json-schema-org/website/issues/2151) Critical: Stored XSS via Card component |
+| `website` | **Issue** | Accepted | [#2141](https://github.com/json-schema-org/website/issues/2141) Bug: Cards visual distinction in Dark Mode |
+| `website` | **Issue** | Closed | [#2121](https://github.com/json-schema-org/website/issues/2121) Bug: Pagination scroll on Blog page |
 
-| Organization Name | Repository | Type | Link |
-|------------------|------------|------|------|
-| **JSON Schema** | Website | Accepted Issue | [#2121](https://github.com/json-schema-org/website/issues/2121) |
-| **JSON Schema** | Conference | Issue | [#92](https://github.com/json-schema-org/conference/issues/92) |
-| **JSON Schema** | Landscape | Issue | [#124](https://github.com/json-schema-org/landscape/issues/124) |
-| **JSON Schema** | Landscape | Issue | [#123](https://github.com/json-schema-org/landscape/issues/123) |
-| **juspay** | hyperswitch | Issue | [#10953](https://github.com/juspay/hyperswitch/issues/10953) |
-| **omegaup** | omegaup | Issue | [#8779](https://github.com/omegaup/omegaup/issues/8779) |
-| **omegaup** | omegaup | Issue | [#8778](https://github.com/omegaup/omegaup/issues/8778) |
-| **JSON Schema** | Website | Accepted Issue | [#2086](https://github.com/json-schema-org/website/issues/2086) |
-| **JSON Schema** | Website | Issue (Closed) | [#2085](https://github.com/json-schema-org/website/issues/2085) |
-| **omegaup** | prod | Issue | [#37](https://github.com/omegaup/prod/issues/37) |
-| **JSON Schema** | Website | PR (Open) | [#2126](https://github.com/json-schema-org/website/pull/2126) |
-| **omegaup** | omegaup | PR (Merged) | [#8781](https://github.com/omegaup/omegaup/pull/8781) |
-| **omegaup** | omegaup | PR (Merged) | [#8727](https://github.com/omegaup/omegaup/pull/8727) |
-| **JSON Schema** | Website | Enhancement Issue | [#2059](https://github.com/json-schema-org/website/issues/2059) |
-| **LeetCode** | LeetCode-Feedback | Issue (Closed) | [#33498](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/33498) |
+---
+
+## ⚡ omegaUp
+| Repository | Type | Status | Contribution |
+|:---|:---|:---|:---|
+| `omegaup` | **PR** | Open | [#9026](https://github.com/omegaup/omegaup/pull/9026) GSoC 2026: Real-Time 1v1 Competitive Match |
+| `omegaup` | **PR** | Open | [#8947](https://github.com/omegaup/omegaup/pull/8947) feat: profile picture edit shortcut |
+| `omegaup` | **PR** | Merged | [#8876](https://github.com/omegaup/omegaup/pull/8876) fix: blue line issue on course page |
+| `omegaup` | **PR** | Merged | [#8862](https://github.com/omegaup/omegaup/pull/8862) fix(arena): resolve contest search filter |
+| `omegaup` | **PR** | Merged | [#8781](https://github.com/omegaup/omegaup/pull/8781) fix: footer stretching on Scoreboard Merge |
+| `omegaup` | **PR** | Merged | [#8727](https://github.com/omegaup/omegaup/pull/8727) Fix: user heat map rendering logic |
+| `prod` | **PR** | Merged | [#38](https://github.com/omegaup/prod/pull/38) fix: secure DOM injection via textContent |
+| `omegaup` | **Issue** | Open | [#9025](https://github.com/omegaup/omegaup/issues/9025) Feature: GSoC 1v1 Competitive Platform |
+| `omegaup` | **Issue** | Open | [#8869](https://github.com/omegaup/omegaup/issues/8869) Bug: Course Progress text/bar overlap |
+| `omegaup` | **Issue** | Closed | [#8864](https://github.com/omegaup/omegaup/issues/8864) Bug: Logo height on /course page |
+| `prod` | **Issue** | Closed | [#37](https://github.com/omegaup/prod/issues/37) Security: Grader template hardening |
+
+---
+
+## 🎨 C2SI (Creative Software Initiative)
+| Repository | Type | Status | Contribution |
+|:---|:---|:---|:---|
+| `c2siorg.github.io`| **PR** | Merged | [#15](https://github.com/c2siorg/c2siorg.github.io/pull/15) Fix: Sticky header for UX/Navigation |
+| `imagelab` | **Issue** | Open | [#25](https://github.com/c2siorg/imagelab/issues/25) Feature: Multiple block manipulation |
+| `c2siorg.github.io`| **Issue** | Closed | [#14](https://github.com/c2siorg/c2siorg.github.io/issues/14) Bug: Non-sticky header navigation |
+
+---
+
+## ♟️ Lichess
+| Repository | Type | Status | Contribution |
+|:---|:---|:---|:---|
+| `lila` | **PR** | Open | [#20241](https://github.com/lichess-org/lila/pull/20241) Fix: Off-center forum loading animation |
+| `lila` | **Issue** | Open | [#20240](https://github.com/lichess-org/lila/issues/20240) Bug: Infinite scroll loading animation (horse) |
+
+---
+
+## 🛠️ Personal & Other Orgs
+| Organization | Repository | Type | Contribution |
+|:---|:---|:---|:---|
+| **waygeance** | `AutoATS` | **PR** | [#3](https://github.com/waygeance/AutoATS/pull/3) Changed Repo Structure |
+| **waygeance** | `AutoATS` | **Issue** | [#6](https://github.com/waygeance/AutoATS/issues/6) Github Automation Not Working |
+| **Juspay** | `hyperswitch` | **Issue** | [#10953](https://github.com/juspay/hyperswitch/issues/10953) Bug: Zoom animation on Cost Observability |
+| **LeetCode** | `Feedback` | **Issue** | [#33498](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/33498) Bug: Missing worst-case test coverage |
+| **CNCF** | `landscape2` | **Issue** | [#911](https://github.com/cncf/landscape2/issues/911) Bug: Search bar in header (Guide pages) |
+| **HarshRaj29004** | `Syntax_Squad`| **PR** | [#3](https://github.com/HarshRaj29004/Syntax_Squad/pull/3) Refactored/Updated Files |
 
 ---
 

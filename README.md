@@ -36,26 +36,40 @@
 ## 🚀 JSON Schema
 | Repository | Type | Status | Contribution |
 |:---|:---|:---|:---|
-| `website` | **PR** | Open | [#2389](https://github.com/json-schema-org/website/pull/2389) fix: sync-contributors file path mismatch |
-| `website` | **PR** | Open | [#2312](https://github.com/json-schema-org/website/pull/2312) fix: render bio links for Redocly/OpenAPI |
-| `website` | **PR** | Open | [#2311](https://github.com/json-schema-org/website/pull/2311) fix(tools): eliminate groupBy flicker |
-| `website` | **PR** | Open | [#2291](https://github.com/json-schema-org/website/pull/2291) fix: blog pagination reset persistence |
-| `website` | **PR** | Merged | [#2276](https://github.com/json-schema-org/website/pull/2276) Added SJF4J to Ecosystem |
-| `website` | **PR** | Open | [#2176](https://github.com/json-schema-org/website/pull/2176) fix: prevent stored XSS in card component |
-| `website` | **PR** | Merged | [#2126](https://github.com/json-schema-org/website/pull/2126) fix(blog): fix blog pagination scroll |
-| `website` | **PR** | Open | [#2125](https://github.com/json-schema-org/website/pull/2125) Fix filter dropdown height visibility |
-| `community` | **PR** | Open | [#1013](https://github.com/json-schema-org/community/pull/1013) Update ambassadors.json |
-| `website` | **Issue** | Open | [#2380](https://github.com/json-schema-org/website/issues/2380) Security: Protect against Axios Supply Chain Compromise |
-| `website` | **Issue** | Open | [#2376](https://github.com/json-schema-org/website/issues/2376) Bug: Sync-contributors.yml silent failure |
-| `website` | **Issue** | Open | [#2250](https://github.com/json-schema-org/website/issues/2250) Bug: time.now logo transparency |
-| `website` | **Issue** | Open | [#2214](https://github.com/json-schema-org/website/issues/2214) Bug: Heading anchor highlight (:target) issue |
-| `community` | **Issue** | Closed | [#973](https://github.com/json-schema-org/community/issues/973) GSOC 2026: Interactive Documentation Assistant |
-| `landscape` | **Issue** | Open | [#124](https://github.com/json-schema-org/landscape/issues/124) Bug: Search bar in header (Guide pages) |
-| `landscape` | **Issue** | Open | [#123](https://github.com/json-schema-org/landscape/issues/123) Bug: Outdated Logos Displayed |
-| `website` | **Issue** | Accepted | [#2151](https://github.com/json-schema-org/website/issues/2151) Critical: Stored XSS via Card component |
-| `website` | **Issue** | Accepted | [#2141](https://github.com/json-schema-org/website/issues/2141) Bug: Cards visual distinction in Dark Mode |
-| `website` | **Issue** | Closed | [#2121](https://github.com/json-schema-org/website/issues/2121) Bug: Pagination scroll on Blog page |
-
+| `website` | **PR** | Open (In Progress) | [#2389](https://github.com/json-schema-org/website/pull/2389) fix: sync-contributors file path mismatch |
+| `website` | **PR** | **In Review** | [#2312](https://github.com/json-schema-org/website/pull/2312) fix: render bio links for Redocly, OpenAPI Initiative, etc. |
+| `website` | **PR** | **In Review** | [#2311](https://github.com/json-schema-org/website/pull/2311) fix(tools): eliminate groupBy flicker on page reload |
+| `community` | **PR** | **In Review** | [#1013](https://github.com/json-schema-org/community/pull/1013) Update ambassadors.json |
+| `website` | **PR** | **Changes Addressed** | [#2291](https://github.com/json-schema-org/website/pull/2291) implement URL parameter persistence |
+| `website` | **PR** | **Merged** | [#2276](https://github.com/json-schema-org/website/pull/2276) Added SJF4J to JSON Schema Ecosystem |
+| `website` | **PR** | **In Review** | [#2176](https://github.com/json-schema-org/website/pull/2176) fix: prevent stored XSS in card component by sanitizing html |
+| `website` | **PR** | **In Review** | [#2148](https://github.com/json-schema-org/website/pull/2148) fix: improve visual distinction of homepage cards in light and dark mode |
+| `website` | **PR** | **Merged** | [#2126](https://github.com/json-schema-org/website/pull/2126) fix(blog): fix blog pagination scroll |
+| `website` | **PR** | **In Review** | [#2138](https://github.com/json-schema-org/website/pull/2138) fix: mobile navigation overflow and desktop sidebar accordion behavior |
+| `website` | **PR** | **Changes Addressed** | [#2125](https://github.com/json-schema-org/website/pull/2125) fix: filter dropdown height so Apply/Clear buttons remain visible |
+| `website` | **PR** | Closed (Abandoned) | [#2102](https://github.com/json-schema-org/website/pull/2102) Fix filter dropdown height so Apply/Clear buttons remain visible |
+| `website` | **Issue** | Open | [#2380](https://github.com/json-schema-org/website/issues/2380) Security Vulnerability: Protect against Axios Supply Chain Compromise |
+| `website` | **Issue** | Open | [#2376](https://github.com/json-schema-org/website/issues/2376) Bug: Sync-contributors.yml workflow writes to wrong file |
+| `website` | **Issue** | **Needs Decision** | [#2250](https://github.com/json-schema-org/website/issues/2250) Bug: time.now logo background not transparent |
+| `website` | **Issue** | **Triage** | [#2214](https://github.com/json-schema-org/website/issues/2214) Bug: Heading anchor highlight (:target) cannot be cleared |
+| `website` | **Issue** | **Accepted** | [#2213](https://github.com/json-schema-org/website/issues/2213) Bug: Blog pagination resets to page 1 after browser reload |
+| `website` | **Issue** | **Needs Info** | [#2179](https://github.com/json-schema-org/website/issues/2179) Bug: Dark mode navbar shows stray black underline on hover |
+| `website` | **Issue** | **Accepted** | [#2165](https://github.com/json-schema-org/website/issues/2165) Bug: Ambassador bio links rendered as plain text |
+| `website` | **Issue** | **Triage** | [#2152](https://github.com/json-schema-org/website/issues/2152) Enhancement: Add SECURITY.md to define disclosure process |
+| `website` | **Issue** | **Accepted** | [#2151](https://github.com/json-schema-org/website/issues/2151) Critical Stored XSS via Card component rendering repository JSON |
+| `website` | **Issue** | **Accepted** | [#2141](https://github.com/json-schema-org/website/issues/2141) Bug: Cards are hard to visually distinguish in light and dark mode |
+| `website` | **Issue** | **Accepted** | [#2140](https://github.com/json-schema-org/website/issues/2140) Bug: Tooling page renders default before applying selected value |
+| `website` | **Issue** | **Accepted** | [#2132](https://github.com/json-schema-org/website/issues/2132) Bug: In-page navigation header stays visible while scrolling on mobile |
+| `website` | **Issue** | **Accepted** | [#2121](https://github.com/json-schema-org/website/issues/2121) Bug: Pagination does not scroll to top on Blog page |
+| `community` | **Issue** | **Closed** | [#973](https://github.com/json-schema-org/community/issues/973) Interactive Documentation Assistant for json-schema.org |
+| `conference` | **Issue** | **Triage** | [#92](https://github.com/json-schema-org/conference/issues/92) Bug: Countdown timer shows negative time after conference date |
+| `landscape` | **Issue** | **Accepted** | [#124](https://github.com/json-schema-org/landscape/issues/124) Bug: Search bar in header does not work on Guide pages |
+| `landscape` | **Issue** | **Triage** | [#123](https://github.com/json-schema-org/landscape/issues/123) Bug: Outdated Logos Displayed on JSON Schema Landscape |
+| `website` | **Issue** | **Accepted** | [#2086](https://github.com/json-schema-org/website/issues/2086) Bug: "Apply Filters" button is buried at the bottom of long dropdowns |
+| `website` | **Issue** | **Closed as not planned** | [#2085](https://github.com/json-schema-org/website/issues/2085) Bug: "Start contributing" heading lacks padding on mobile view |
+| `website` | **Issue** | **Closed as not planned** | [#2181](https://github.com/json-schema-org/website/issues/2181) Bug: Feedback form allows submission with empty comment |
+| `website` | **Issue** | Open | [#2059](https://github.com/json-schema-org/website/issues/2059) Enhancement: Systematic refactor of 'any' types to TypeScript interfaces |
+| `website` | **Issue** | Open | [#2045](https://github.com/json-schema-org/website/issues/2045) Enhancement: Implement missing component tests and improve coverage |
 ---
 
 ## ⚡ omegaUp
